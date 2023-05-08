@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Rosie 👋
+#### 💻 Aspiring front-end dev & web designer 
+#### 🥳 Studying at School of Code 
+#### 👩‍🎨 Interested in creative projects that help people 
+#### 🌱 Currently learning ReactJS 
+
+#### 🖼 Check out my portfolio here!
 
 <!--
 **rosiegracejones/rosiegracejones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
