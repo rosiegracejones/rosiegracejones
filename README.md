@@ -3,11 +3,13 @@
 #### 🥳 Studying at School of Code 
 #### 👩‍🎨 Interested in creative projects that help people 
 #### 🌱 Currently learning ReactJS 
+#### 🖼 Portfolio coming soon!
 
-#### 🖼 Check out my portfolio here!
 
 <!--
 **rosiegracejones/rosiegracejones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#### 🖼 Check out my portfolio here!
 
 Here are some ideas to get you started:
 
