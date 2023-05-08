@@ -1,9 +1,9 @@
 ### Hi there, I'm Rosie 👋
-#### 💻 Aspiring front-end dev & web designer 
+#### 💻 Aspiring Front-End Dev & Web Designer 
 #### 🥳 Studying at School of Code 
-#### 👩‍🎨 Interested in creative projects that help people 
-#### 🌱 Currently learning ReactJS 
-#### 🖼 Portfolio coming soon!
+#### 👩‍🎨 Interested in Creative Projects with Purpose
+#### 🌱 Currently Learning ReactJS 
+#### 🖼 Portfolio Coming Soon!
 
 
 <!--
