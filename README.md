@@ -1,6 +1,6 @@
 ### Hi there, I'm Rosie 👋
 #### 💻 Aspiring Front-End Dev & Web Designer 
-#### 🥳 Studying at School of Code 
+#### 🥳 Recently Graduated from School of Code 
 #### 👩‍🎨 Interested in Creative Projects with Purpose
 #### 🌱 Currently Learning ReactJS 
 #### 🖼 Portfolio Coming Soon!
